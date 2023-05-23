@@ -2,7 +2,7 @@
 
 Electronic Engineering Grad. Fan of all things tech.
 
-<a href="https://profile-maker.vercel.app/profile/rnba12" target="_blank">Check out some of my projects</a>
+[Check out some of my projects](https://profile-maker.vercel.app/profile/rnba12)
 
 #### Languages `<⁄>`
 <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=%F7DF1E&style=for-the-badge" alt="JavaScript"/>&nbsp;<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>&nbsp;<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">&nbsp;<img src="https://img.shields.io/badge/-CSS-1572B6?logo=html5&logoColor=white&style=for-the-badge" alt="CSS">
