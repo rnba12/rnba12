@@ -15,4 +15,4 @@ Electronic Engineering Grad. Fan of all things tech.
 
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Nodejs">&nbsp;<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=yellow&style=for-the-badge" alt="Vite">&nbsp;<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">&nbsp;
 #### Currently Learning 📚
-<img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="Csharp">&nbsp;<img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="dotnet">&nbsp;<img src="https://img.shields.io/badge/-Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge" alt="solid">&nbsp;
+<img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="Csharp">&nbsp;<img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="dotnet">&nbsp;<img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="go">&nbsp;
